@@ -48,4 +48,8 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishals-hk" alt="vishals-hk" /></a> </p>
 
 ---
+[![@vishal_s's Holopin board](https://holopin.me/vishal_s)](https://holopin.io/@vishal_s)
+
+---
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=vishals-hk&label=Profile%20views&color=00f900&style=plastic" alt="vishals-hk" /> </p>
