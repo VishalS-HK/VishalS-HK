@@ -11,7 +11,7 @@
 ---
 
 
-- 🌱 I’m currently learning **Python, C and ReactJs**
+- 🌱 I’m currently learning **Python, C and Java**
 
 - 📫 How to reach me **vishal.rsn21@gmail.com**
 
