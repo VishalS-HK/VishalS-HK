@@ -7,7 +7,6 @@
 <h1 align="center">Hi 👋, I'm Vishal S</h1>
 <h3 align="center">A budding developer 👨‍💻 from India 🇮🇳</h3>
 
-
 ---
 
 
@@ -16,6 +15,7 @@
 - 📫 How to reach me **vishal.rsn21@gmail.com**
 
 - ⚡ Fun fact **I am a professional Over-thinker😅**
+<!-- <img width="382" alt="Developer Memoji" src="https://user-images.githubusercontent.com/99802796/206902356-ee7abea3-f2eb-4d7c-906e-8aeed45b41b2.png"> -->
 
 ---
 ## 🌐 Socials:
