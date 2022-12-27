@@ -51,7 +51,7 @@
 [![@vishal_s's Holopin board](https://holopin.me/vishal_s)](https://holopin.io/@vishal_s)
 
 ---
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=uqpmroy3rsdzhulc3cs3vq2pm&cover_image=true&theme=default&show_offline=false&background_color=121212)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=uqpmroy3rsdzhulc3cs3vq2pm&cover_image=true&theme=default&show_offline=false&background_color=121212)](https://github.com/kittinan/spotify-github-profile) 
 ---
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=vishals-hk&label=Profile%20views&color=00f900&style=plastic" alt="vishals-hk" /> </p>
