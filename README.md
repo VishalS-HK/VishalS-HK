@@ -52,6 +52,23 @@
 
 ---
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=uqpmroy3rsdzhulc3cs3vq2pm&cover_image=true&theme=default&show_offline=false&background_color=121212)](https://github.com/kittinan/spotify-github-profile) 
+
 ---
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=vishals-hk&label=Profile%20views&color=00f900&style=plastic" alt="vishals-hk" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=vishals-hk&label=Profile%20views&color=00f900&style=plastic" alt="vishals-hk" /></p>
+
+---
+
+<!-- <a href="https://linkedin.com/in/vishal-s-b368b3228">
+  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/4a38660afb7be89a6032218589b4454a1285c7f8/svg/social/linkedin.svg" alt="linkedin badge" style="vertical-align:top margin:6px 4px">
+</a>  
+<a href="https://instagram.com/itz.__.vishal">
+  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/4a38660afb7be89a6032218589b4454a1285c7f8/svg/social/instagram.svg" alt="instagram badge" style="vertical-align:top margin:6px 4px">
+</a>
+<a href="https://twitter.com/vishalrsnaidu">
+  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/4a38660afb7be89a6032218589b4454a1285c7f8/svg/social/twitter.svg" alt="twitter badge" style="vertical-align:top margin:6px 4px">
+</a>
+<a href="https://discord.com/users/796304303064875008">
+  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/4a38660afb7be89a6032218589b4454a1285c7f8/svg/social/twitter.svg" alt="linkedin badge" style="vertical-align:top margin:6px 4px">
+</a>
+ -->
