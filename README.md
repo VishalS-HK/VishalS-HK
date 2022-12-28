@@ -144,7 +144,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=VishalS-HK&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-## 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishals-hk" alt="vishals-hk" /></a> </p>
 
