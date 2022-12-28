@@ -65,7 +65,7 @@
 
 ---
 # 💻 Tech Stack:
-## Languages and Interests
+## ⌨️ Languages and Interests
 <a href="https://www.python.org">
   <img src="https://raw.githubusercontent.com/VishalS-HK/ReadMe-svg/a4dd0dca901b70ffed3394da886baad22076a040/svg%20icons/%20languages/%20python.svg" alt="python badge" style="vertical-align:top margin:6px 4px">
 </a>
@@ -91,7 +91,7 @@
   <img src="https://raw.githubusercontent.com/VishalS-HK/ReadMe-svg/ab53307a5cedb854b25e12c9198d612083c96cea/svg%20icons/%20misc/%20dsa.svg" alt="dsa badge" style="vertical-align:top margin:6px 4px">
 </a><br>
 
-## OS
+## 👀 OS
 <a href="https://www.apple.com">
   <img src="https://raw.githubusercontent.com/VishalS-HK/ReadMe-svg/bfb8aa1395f8cce4b70b9e986b8cf9de49d21fdb/svg%20icons/devices/%20mac.svg" alt="apple badge" style="vertical-align:top margin:6px 4px">
 </a>
@@ -102,7 +102,7 @@
   <img src="https://raw.githubusercontent.com/VishalS-HK/ReadMe-svg/641a9040a94f78b2deeb27c4bf1b33ddad9f0ae7/svg%20icons/devices/%20ubuntu.svg" alt="ubuntu badge" style="vertical-align:top margin:6px 4px">
 </a><br>
 
-## Tools
+## 🛠️ Tools
 <a href="https://code.visualstudio.com">
   <img src="https://raw.githubusercontent.com/VishalS-HK/ReadMe-svg/2961e7a72f1e5270bcefbbbd31ae56bf0c55d927/svg%20icons/%20tools/%20visualstudio_code.svg" alt="vscode badge" style="vertical-align:top margin:6px 4px">
 </a>
