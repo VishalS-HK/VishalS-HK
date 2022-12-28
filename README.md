@@ -18,20 +18,121 @@
 <!-- <img width="382" alt="Developer Memoji" src="https://user-images.githubusercontent.com/99802796/206902356-ee7abea3-f2eb-4d7c-906e-8aeed45b41b2.png"> -->
 
 ---
-## 🌐 Socials:
-<p align="left">
-<a href="https://twitter.com/vishalrsnaidu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vishalrsnaidu" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/vishal-s-b368b3228" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vishal-s-b368b3228" height="30" width="40" /></a>
-<a href="https://instagram.com/itz.__.vishal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itz.__.vishal" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/xxvictorxx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="xxvictorxx" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/vishal_s_n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vishal_s_n" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@vishal.rsn21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@vishal.rsn21" height="30" width="40" /></a>
-</p>
+# 🌐 Socials:
+<a href="https://linkedin.com/in/vishal-s-b368b3228">
+  <img src="https://raw.githubusercontent.com/VishalS-HK/ReadMe-svg/a4dd0dca901b70ffed3394da886baad22076a040/svg%20icons/social/linkedin.svg" alt="linkedin badge" style="vertical-align:top margin:6px 4px">
+</a>   
+<a href="https://instagram.com/itz.__.vishal">
+  <img src="https://raw.githubusercontent.com/VishalS-HK/ReadMe-svg/a4dd0dca901b70ffed3394da886baad22076a040/svg%20icons/social/instagram.svg" alt="instagram badge" style="vertical-align:top margin:6px 4px">
+</a>
+<a href="https://twitter.com/vishalrsnaidu">
+  <img src="https://raw.githubusercontent.com/VishalS-HK/ReadMe-svg/a4dd0dca901b70ffed3394da886baad22076a040/svg%20icons/social/twitter.svg" alt="twitter badge" style="vertical-align:top margin:6px 4px">
+</a>
+<a href="https://discord.com/users/796304303064875008">
+  <img src="https://raw.githubusercontent.com/VishalS-HK/ReadMe-svg/a4dd0dca901b70ffed3394da886baad22076a040/svg%20icons/streaming/discord.svg" alt="discord badge" style="vertical-align:top margin:6px 4px">
+</a>
+<a href="https://stackoverflow.com/users/19214483/vishal-s">
+  <img src="https://raw.githubusercontent.com/VishalS-HK/ReadMe-svg/a4dd0dca901b70ffed3394da886baad22076a040/svg%20icons/social/stackoverflow.svg" alt="stackoverflow badge" style="vertical-align:top margin:6px 4px">
+</a>
+<a href="https://www.reddit.com/user/SometimesVictor">
+  <img src="https://raw.githubusercontent.com/VishalS-HK/ReadMe-svg/a4dd0dca901b70ffed3394da886baad22076a040/svg%20icons/social/reddit.svg" alt="reddit badge" style="vertical-align:top margin:6px 4px">
+</a>
+<a href="mailto:vishal.rsn21@gmail.com">
+  <img src="https://raw.githubusercontent.com/VishalS-HK/ReadMe-svg/a4dd0dca901b70ffed3394da886baad22076a040/svg%20icons/social/gmail.svg" alt="email badge" style="vertical-align:top margin:6px 4px">
+</a>
+<br>
+<br>
+<a href="https://www.leetcode.com/vishal_s_n">
+  <img src="https://raw.githubusercontent.com/VishalS-HK/ReadMe-svg/a4dd0dca901b70ffed3394da886baad22076a040/svg%20icons/%20services/%20leetcode.svg" alt="leetcode badge" style="vertical-align:top margin:6px 4px">
+</a>
+<a href="https://www.hackerrank.com/xxvictorxx">
+  <img src="https://raw.githubusercontent.com/VishalS-HK/ReadMe-svg/a4dd0dca901b70ffed3394da886baad22076a040/svg%20icons/%20services/%20hackerrank.svg" alt="hackerrank badge" style="vertical-align:top margin:6px 4px">
+</a>
+<a href="https://www.hackerearth.com/@vishal.rsn21">
+  <img src="https://raw.githubusercontent.com/VishalS-HK/ReadMe-svg/a4dd0dca901b70ffed3394da886baad22076a040/svg%20icons/%20services/%20hackerearth.svg" alt="hackerearth badge" style="vertical-align:top margin:6px 4px">
+</a>
+<a href="https://exercism.org">
+  <img src="https://raw.githubusercontent.com/VishalS-HK/ReadMe-svg/a4dd0dca901b70ffed3394da886baad22076a040/svg%20icons/%20services/%20excercism.svg" alt="exercism badge" style="vertical-align:top margin:6px 4px">
+</a>
+<br>
+<br>
+<a href="https://medium.com/@vishal.rsn21">
+  <img src="https://raw.githubusercontent.com/VishalS-HK/ReadMe-svg/ab53307a5cedb854b25e12c9198d612083c96cea/svg%20icons/blogs/medium.svg" alt="medium badge" style="vertical-align:top margin:6px 4px">
+</a>
+<a href="https://sometimesvictor.hashnode.dev">
+  <img src="https://raw.githubusercontent.com/VishalS-HK/ReadMe-svg/0e48b2cccc68e46442550a072543a6b601f17ca1/svg%20icons/blogs/hashnode.svg" alt="hashnode badge" style="vertical-align:top margin:6px 4px">
+</a>
 
 ---
 # 💻 Tech Stack:
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a> </p>
+## Languages and Interest
+<a href="https://www.python.org">
+  <img src="https://raw.githubusercontent.com/VishalS-HK/ReadMe-svg/a4dd0dca901b70ffed3394da886baad22076a040/svg%20icons/%20languages/%20python.svg" alt="python badge" style="vertical-align:top margin:6px 4px">
+</a>
+<a href="">
+  <img src="https://raw.githubusercontent.com/VishalS-HK/ReadMe-svg/a4dd0dca901b70ffed3394da886baad22076a040/svg%20icons/%20languages/%20c.svg" alt="c badge" style="vertical-align:top margin:6px 4px">
+</a>
+<a href="">
+  <img src="https://raw.githubusercontent.com/VishalS-HK/ReadMe-svg/a4dd0dca901b70ffed3394da886baad22076a040/svg%20icons/%20languages/%20java.svg" alt="java badge" style="vertical-align:top margin:6px 4px">
+</a>
+<a href="">
+  <img src="https://raw.githubusercontent.com/VishalS-HK/ReadMe-svg/a4dd0dca901b70ffed3394da886baad22076a040/svg%20icons/%20languages/%20html.svg" alt="html5 badge" style="vertical-align:top margin:6px 4px">
+</a>
+<a href="">
+  <img src="https://raw.githubusercontent.com/VishalS-HK/ReadMe-svg/2961e7a72f1e5270bcefbbbd31ae56bf0c55d927/svg%20icons/%20languages/%20css3.svg" alt="css3 badge" style="vertical-align:top margin:6px 4px">
+</a>
+<a href="">
+  <img src="https://raw.githubusercontent.com/VishalS-HK/ReadMe-svg/ffe85c891c9c1793a47ec5d25a1cd024859c5c21/svg%20icons/%20misc/%20datascience.svg" alt="datascience badge" style="vertical-align:top margin:6px 4px">
+</a>
+<a href="">
+  <img src="https://raw.githubusercontent.com/VishalS-HK/ReadMe-svg/ab53307a5cedb854b25e12c9198d612083c96cea/svg%20icons/%20misc/%20ml.svg" alt="ml badge" style="vertical-align:top margin:6px 4px">
+</a>
+<a href="">
+  <img src="https://raw.githubusercontent.com/VishalS-HK/ReadMe-svg/ab53307a5cedb854b25e12c9198d612083c96cea/svg%20icons/%20misc/%20dsa.svg" alt="dsa badge" style="vertical-align:top margin:6px 4px">
+</a><br>
+
+## OS
+<a href="https://www.apple.com">
+  <img src="https://raw.githubusercontent.com/VishalS-HK/ReadMe-svg/2961e7a72f1e5270bcefbbbd31ae56bf0c55d927/svg%20icons/devices/%20mac.svg" alt="apple badge" style="vertical-align:top margin:6px 4px">
+</a>
+<a href="https://www.microsoft.com/en-in/windows">
+  <img src="https://raw.githubusercontent.com/VishalS-HK/ReadMe-svg/2961e7a72f1e5270bcefbbbd31ae56bf0c55d927/svg%20icons/devices/%20pc.svg" alt="windows badge" style="vertical-align:top margin:6px 4px">
+</a>
+<a href="https://ubuntu.com">
+  <img src="https://raw.githubusercontent.com/VishalS-HK/ReadMe-svg/641a9040a94f78b2deeb27c4bf1b33ddad9f0ae7/svg%20icons/devices/%20ubuntu.svg" alt="ubuntu badge" style="vertical-align:top margin:6px 4px">
+</a><br>
+
+## Tools
+<a href="https://code.visualstudio.com">
+  <img src="https://raw.githubusercontent.com/VishalS-HK/ReadMe-svg/2961e7a72f1e5270bcefbbbd31ae56bf0c55d927/svg%20icons/%20tools/%20visualstudio_code.svg" alt="vscode badge" style="vertical-align:top margin:6px 4px">
+</a>
+<a href="https://www.jetbrains.com/idea/">
+  <img src="https://raw.githubusercontent.com/VishalS-HK/ReadMe-svg/2961e7a72f1e5270bcefbbbd31ae56bf0c55d927/svg%20icons/%20tools/%20jetbrains_intellij.svg" alt="intellij badge" style="vertical-align:top margin:6px 4px">
+</a>
+<a href="https://www.anaconda.com/products/distribution">
+  <img src="https://raw.githubusercontent.com/VishalS-HK/ReadMe-svg/641a9040a94f78b2deeb27c4bf1b33ddad9f0ae7/svg%20icons/%20tools/%20anaconda.svg" alt="anaconda badge" style="vertical-align:top margin:6px 4px">
+</a>
+<a href="https://developer.android.com/studio?gclid=CjwKCAiA76-dBhByEiwAA0_s9Q9l2FzSRd036ERv67g0jXlW3SS0w5GE1rcXdnUA68pwjxjePY3W-hoC4-sQAvD_BwE&gclsrc=aw.ds">
+  <img src="https://raw.githubusercontent.com/VishalS-HK/ReadMe-svg/641a9040a94f78b2deeb27c4bf1b33ddad9f0ae7/svg%20icons/%20tools/%20android_studio_colour.svg" alt="androidstudio badge" style="vertical-align:top margin:6px 4px">
+</a>
+<a href="https://in.mathworks.com/products/matlab.html">
+  <img src="https://raw.githubusercontent.com/VishalS-HK/ReadMe-svg/ffe85c891c9c1793a47ec5d25a1cd024859c5c21/svg%20icons/%20tools/%20matlab.svg" alt="matlab badge" style="vertical-align:top margin:6px 4px">
+</a>
+</br>
+<a href="https://www.zsh.org">
+  <img src="https://raw.githubusercontent.com/VishalS-HK/ReadMe-svg/ffe85c891c9c1793a47ec5d25a1cd024859c5c21/svg%20icons/%20tools/zsh.svg" alt="zsh badge" style="vertical-align:top margin:6px 4px">
+</a>
+<a href="https://www.gnu.org/software/bash/">
+  <img src="https://raw.githubusercontent.com/VishalS-HK/ReadMe-svg/ffe85c891c9c1793a47ec5d25a1cd024859c5c21/svg%20icons/%20tools/%20bash.svg" alt="bash badge" style="vertical-align:top margin:6px 4px">
+</a>
+<br>
+<br>
+<a href="https://www.apple.com/in/safari/">
+  <img src="https://github.com/VishalS-HK/ReadMe-svg/blob/main/svg%20icons/%20misc/%20safari.svg" alt="safari badge" style="vertical-align:top margin:6px 4px">
+</a>
+<a href="https://www.microsoft.com/en-us/edge?exp=e501&form=MA13FJ">
+  <img src="https://raw.githubusercontent.com/VishalS-HK/ReadMe-svg/ffe85c891c9c1793a47ec5d25a1cd024859c5c21/svg%20icons/%20misc/%20edge.svg" alt="edge badge" style="vertical-align:top margin:6px 4px">
+</a>
 
 ---
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishals-hk&show_icons=true&locale=en&layout=compact" alt="vishals-hk" /></p>
@@ -59,16 +160,4 @@
 
 ---
 
-<!-- <a href="https://linkedin.com/in/vishal-s-b368b3228">
-  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/4a38660afb7be89a6032218589b4454a1285c7f8/svg/social/linkedin.svg" alt="linkedin badge" style="vertical-align:top margin:6px 4px">
-</a>  
-<a href="https://instagram.com/itz.__.vishal">
-  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/4a38660afb7be89a6032218589b4454a1285c7f8/svg/social/instagram.svg" alt="instagram badge" style="vertical-align:top margin:6px 4px">
-</a>
-<a href="https://twitter.com/vishalrsnaidu">
-  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/4a38660afb7be89a6032218589b4454a1285c7f8/svg/social/twitter.svg" alt="twitter badge" style="vertical-align:top margin:6px 4px">
-</a>
-<a href="https://discord.com/users/796304303064875008">
-  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/4a38660afb7be89a6032218589b4454a1285c7f8/svg/social/twitter.svg" alt="linkedin badge" style="vertical-align:top margin:6px 4px">
-</a>
- -->
+![Untitled design](https://user-images.githubusercontent.com/99802796/209793540-c97a945a-7107-404f-bd2a-edc805e83574.png)
