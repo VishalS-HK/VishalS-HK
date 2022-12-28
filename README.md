@@ -49,7 +49,7 @@
   <img src="https://raw.githubusercontent.com/VishalS-HK/ReadMe-svg/a4dd0dca901b70ffed3394da886baad22076a040/svg%20icons/%20services/%20hackerrank.svg" alt="hackerrank badge" style="vertical-align:top margin:6px 4px">
 </a>
 <a href="https://www.hackerearth.com/@vishal.rsn21">
-  <img src="https://raw.githubusercontent.com/VishalS-HK/ReadMe-svg/a4dd0dca901b70ffed3394da886baad22076a040/svg%20icons/%20services/%20hackerearth.svg" alt="hackerearth badge" style="vertical-align:top margin:6px 4px">
+  <img src="https://raw.githubusercontent.com/VishalS-HK/ReadMe-svg/cb5a3725fdd0680d9a843dd1cd44797c0596ecb1/svg%20icons/%20services/%20hackerearth.svg" alt="hackerearth badge" style="vertical-align:top margin:6px 4px">
 </a>
 <a href="https://exercism.org">
   <img src="https://raw.githubusercontent.com/VishalS-HK/ReadMe-svg/a4dd0dca901b70ffed3394da886baad22076a040/svg%20icons/%20services/%20excercism.svg" alt="exercism badge" style="vertical-align:top margin:6px 4px">
@@ -93,7 +93,7 @@
 
 ## OS
 <a href="https://www.apple.com">
-  <img src="https://raw.githubusercontent.com/VishalS-HK/ReadMe-svg/2961e7a72f1e5270bcefbbbd31ae56bf0c55d927/svg%20icons/devices/%20mac.svg" alt="apple badge" style="vertical-align:top margin:6px 4px">
+  <img src="https://raw.githubusercontent.com/VishalS-HK/ReadMe-svg/bfb8aa1395f8cce4b70b9e986b8cf9de49d21fdb/svg%20icons/devices/%20mac.svg" alt="apple badge" style="vertical-align:top margin:6px 4px">
 </a>
 <a href="https://www.microsoft.com/en-in/windows">
   <img src="https://raw.githubusercontent.com/VishalS-HK/ReadMe-svg/2961e7a72f1e5270bcefbbbd31ae56bf0c55d927/svg%20icons/devices/%20pc.svg" alt="windows badge" style="vertical-align:top margin:6px 4px">
