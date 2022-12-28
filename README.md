@@ -65,7 +65,7 @@
 
 ---
 # 💻 Tech Stack:
-## Languages and Interest
+## Languages and Interests
 <a href="https://www.python.org">
   <img src="https://raw.githubusercontent.com/VishalS-HK/ReadMe-svg/a4dd0dca901b70ffed3394da886baad22076a040/svg%20icons/%20languages/%20python.svg" alt="python badge" style="vertical-align:top margin:6px 4px">
 </a>
@@ -128,7 +128,7 @@
 <br>
 <br>
 <a href="https://www.apple.com/in/safari/">
-  <img src="https://github.com/VishalS-HK/ReadMe-svg/blob/main/svg%20icons/%20misc/%20safari.svg" alt="safari badge" style="vertical-align:top margin:6px 4px">
+  <img src="https://raw.githubusercontent.com/VishalS-HK/ReadMe-svg/0e48b2cccc68e46442550a072543a6b601f17ca1/svg%20icons/%20misc/%20safari.svg" alt="safari badge" style="vertical-align:top margin:6px 4px">
 </a>
 <a href="https://www.microsoft.com/en-us/edge?exp=e501&form=MA13FJ">
   <img src="https://raw.githubusercontent.com/VishalS-HK/ReadMe-svg/ffe85c891c9c1793a47ec5d25a1cd024859c5c21/svg%20icons/%20misc/%20edge.svg" alt="edge badge" style="vertical-align:top margin:6px 4px">
