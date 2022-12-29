@@ -95,10 +95,10 @@
 <a href="https://www.apple.com">
   <img src="https://raw.githubusercontent.com/VishalS-HK/ReadMe-svg/bfb8aa1395f8cce4b70b9e986b8cf9de49d21fdb/svg%20icons/devices/%20mac.svg" alt="apple badge" style="vertical-align:top margin:6px 4px">
 </a>
-<a href="https://www.microsoft.com/en-in/windows">
+<a href="https://github.com/VishalS-HK">
   <img src="https://raw.githubusercontent.com/VishalS-HK/ReadMe-svg/2961e7a72f1e5270bcefbbbd31ae56bf0c55d927/svg%20icons/devices/%20pc.svg" alt="windows badge" style="vertical-align:top margin:6px 4px">
 </a>
-<a href="https://ubuntu.com">
+<a href="https://github.com/VishalS-HK">
   <img src="https://raw.githubusercontent.com/VishalS-HK/ReadMe-svg/641a9040a94f78b2deeb27c4bf1b33ddad9f0ae7/svg%20icons/devices/%20ubuntu.svg" alt="ubuntu badge" style="vertical-align:top margin:6px 4px">
 </a><br>
 
@@ -127,10 +127,10 @@
 </a>
 <br>
 <br>
-<a href="https://www.apple.com/in/safari/">
+<a href="https://github.com/VishalS-HK">
   <img src="https://raw.githubusercontent.com/VishalS-HK/ReadMe-svg/0e48b2cccc68e46442550a072543a6b601f17ca1/svg%20icons/%20misc/%20safari.svg" alt="safari badge" style="vertical-align:top margin:6px 4px">
 </a>
-<a href="https://www.microsoft.com/en-us/edge?exp=e501&form=MA13FJ">
+<a href="https://github.com/VishalS-HK">
   <img src="https://raw.githubusercontent.com/VishalS-HK/ReadMe-svg/ffe85c891c9c1793a47ec5d25a1cd024859c5c21/svg%20icons/%20misc/%20edge.svg" alt="edge badge" style="vertical-align:top margin:6px 4px">
 </a>
 
