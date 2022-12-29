@@ -115,14 +115,14 @@
 <a href="https://developer.android.com/studio?gclid=CjwKCAiA76-dBhByEiwAA0_s9Q9l2FzSRd036ERv67g0jXlW3SS0w5GE1rcXdnUA68pwjxjePY3W-hoC4-sQAvD_BwE&gclsrc=aw.ds">
   <img src="https://raw.githubusercontent.com/VishalS-HK/ReadMe-svg/641a9040a94f78b2deeb27c4bf1b33ddad9f0ae7/svg%20icons/%20tools/%20android_studio_colour.svg" alt="androidstudio badge" style="vertical-align:top margin:6px 4px">
 </a>
-<a href="https://in.mathworks.com/products/matlab.html">
+<a href="https://github.com/VishalS-HK">
   <img src="https://raw.githubusercontent.com/VishalS-HK/ReadMe-svg/ffe85c891c9c1793a47ec5d25a1cd024859c5c21/svg%20icons/%20tools/%20matlab.svg" alt="matlab badge" style="vertical-align:top margin:6px 4px">
 </a>
 </br>
-<a href="https://www.zsh.org">
+<a href="https://github.com/VishalS-HK">
   <img src="https://raw.githubusercontent.com/VishalS-HK/ReadMe-svg/ffe85c891c9c1793a47ec5d25a1cd024859c5c21/svg%20icons/%20tools/zsh.svg" alt="zsh badge" style="vertical-align:top margin:6px 4px">
 </a>
-<a href="https://www.gnu.org/software/bash/">
+<a href="https://github.com/VishalS-HK">
   <img src="https://raw.githubusercontent.com/VishalS-HK/ReadMe-svg/ffe85c891c9c1793a47ec5d25a1cd024859c5c21/svg%20icons/%20tools/%20bash.svg" alt="bash badge" style="vertical-align:top margin:6px 4px">
 </a>
 <br>
