@@ -66,28 +66,28 @@
 ---
 # 💻 Tech Stack:
 ## ⌨️ Languages and Interests
-<a href="https://www.python.org">
+<a href="https://github.com/VishalS-HK">
   <img src="https://raw.githubusercontent.com/VishalS-HK/ReadMe-svg/a4dd0dca901b70ffed3394da886baad22076a040/svg%20icons/%20languages/%20python.svg" alt="python badge" style="vertical-align:top margin:6px 4px">
 </a>
-<a href="">
+<a href="https://github.com/VishalS-HK">
   <img src="https://raw.githubusercontent.com/VishalS-HK/ReadMe-svg/a4dd0dca901b70ffed3394da886baad22076a040/svg%20icons/%20languages/%20c.svg" alt="c badge" style="vertical-align:top margin:6px 4px">
 </a>
-<a href="">
+<a href="https://github.com/VishalS-HK">
   <img src="https://raw.githubusercontent.com/VishalS-HK/ReadMe-svg/a4dd0dca901b70ffed3394da886baad22076a040/svg%20icons/%20languages/%20java.svg" alt="java badge" style="vertical-align:top margin:6px 4px">
 </a>
-<a href="">
+<a href="https://github.com/VishalS-HK">
   <img src="https://raw.githubusercontent.com/VishalS-HK/ReadMe-svg/a4dd0dca901b70ffed3394da886baad22076a040/svg%20icons/%20languages/%20html.svg" alt="html5 badge" style="vertical-align:top margin:6px 4px">
 </a>
-<a href="">
+<a href="https://github.com/VishalS-HK">
   <img src="https://raw.githubusercontent.com/VishalS-HK/ReadMe-svg/2961e7a72f1e5270bcefbbbd31ae56bf0c55d927/svg%20icons/%20languages/%20css3.svg" alt="css3 badge" style="vertical-align:top margin:6px 4px">
 </a>
-<a href="">
+<a href="https://github.com/VishalS-HK">
   <img src="https://raw.githubusercontent.com/VishalS-HK/ReadMe-svg/ffe85c891c9c1793a47ec5d25a1cd024859c5c21/svg%20icons/%20misc/%20datascience.svg" alt="datascience badge" style="vertical-align:top margin:6px 4px">
 </a>
-<a href="">
+<a href="https://github.com/VishalS-HK">
   <img src="https://raw.githubusercontent.com/VishalS-HK/ReadMe-svg/ab53307a5cedb854b25e12c9198d612083c96cea/svg%20icons/%20misc/%20ml.svg" alt="ml badge" style="vertical-align:top margin:6px 4px">
 </a>
-<a href="">
+<a href="https://github.com/VishalS-HK">
   <img src="https://raw.githubusercontent.com/VishalS-HK/ReadMe-svg/ab53307a5cedb854b25e12c9198d612083c96cea/svg%20icons/%20misc/%20dsa.svg" alt="dsa badge" style="vertical-align:top margin:6px 4px">
 </a><br>
 
