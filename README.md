@@ -118,6 +118,12 @@
 <a href="https://github.com/VishalS-HK">
   <img src="https://raw.githubusercontent.com/VishalS-HK/ReadMe-svg/ffe85c891c9c1793a47ec5d25a1cd024859c5c21/svg%20icons/%20tools/%20matlab.svg" alt="matlab badge" style="vertical-align:top margin:6px 4px">
 </a>
+<a href="https://github.com/VishalS-HK">
+  <img src="https://raw.githubusercontent.com/VishalS-HK/ReadMe-svg/6e1da48b5d7382995ead0be21ebb3e29cb456ccf/svg%20icons/%20tools/%20figma.svg" alt="figma badge" style="vertical-align:top margin:6px 4px">
+</a>
+<a href="https://github.com/VishalS-HK">
+  <img src="https://raw.githubusercontent.com/VishalS-HK/ReadMe-svg/6e1da48b5d7382995ead0be21ebb3e29cb456ccf/svg%20icons/%20tools/%20canva.svg" alt="canva badge" style="vertical-align:top margin:6px 4px">
+</a>
 </br>
 <a href="https://github.com/VishalS-HK">
   <img src="https://raw.githubusercontent.com/VishalS-HK/ReadMe-svg/ffe85c891c9c1793a47ec5d25a1cd024859c5c21/svg%20icons/%20tools/zsh.svg" alt="zsh badge" style="vertical-align:top margin:6px 4px">
