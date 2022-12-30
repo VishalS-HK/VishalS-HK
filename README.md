@@ -70,7 +70,7 @@
   <img src="https://raw.githubusercontent.com/VishalS-HK/ReadMe-svg/a4dd0dca901b70ffed3394da886baad22076a040/svg%20icons/%20languages/%20python.svg" alt="python badge" style="vertical-align:top margin:6px 4px">
 </a>
 <a href="https://github.com/VishalS-HK">
-  <img src="https://raw.githubusercontent.com/VishalS-HK/ReadMe-svg/a4dd0dca901b70ffed3394da886baad22076a040/svg%20icons/%20languages/%20c.svg" alt="c badge" style="vertical-align:top margin:6px 4px">
+  <img src="https://raw.githubusercontent.com/VishalS-HK/ReadMe-svg/8e6a08c2799b4ca38c45005edb41878f4ad85301/svg%20icons/%20languages/%20c.svg" alt="c badge" style="vertical-align:top margin:6px 4px">
 </a>
 <a href="https://github.com/VishalS-HK">
   <img src="https://raw.githubusercontent.com/VishalS-HK/ReadMe-svg/a4dd0dca901b70ffed3394da886baad22076a040/svg%20icons/%20languages/%20java.svg" alt="java badge" style="vertical-align:top margin:6px 4px">
@@ -80,6 +80,9 @@
 </a>
 <a href="https://github.com/VishalS-HK">
   <img src="https://raw.githubusercontent.com/VishalS-HK/ReadMe-svg/2961e7a72f1e5270bcefbbbd31ae56bf0c55d927/svg%20icons/%20languages/%20css3.svg" alt="css3 badge" style="vertical-align:top margin:6px 4px">
+</a>
+<a href="https://github.com/VishalS-HK">
+  <img src="https://raw.githubusercontent.com/VishalS-HK/ReadMe-svg/15c19f4fc1a136cf3fbef5a251ebcbacd089088f/svg%20icons/%20languages/%20markdown.svg" alt="md badge" style="vertical-align:top margin:6px 4px">
 </a>
 <a href="https://github.com/VishalS-HK">
   <img src="https://raw.githubusercontent.com/VishalS-HK/ReadMe-svg/ffe85c891c9c1793a47ec5d25a1cd024859c5c21/svg%20icons/%20misc/%20datascience.svg" alt="datascience badge" style="vertical-align:top margin:6px 4px">
