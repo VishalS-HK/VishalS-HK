@@ -20,7 +20,7 @@
 ---
 # 🌐 Socials:
 <a href="https://linkedin.com/in/vishal-s-b368b3228">
-  <img src="https://raw.githubusercontent.com/VishalS-HK/ReadMe-svg/a4dd0dca901b70ffed3394da886baad22076a040/svg%20icons/social/linkedin.svg" alt="linkedin badge" style="vertical-align:top margin:6px 4px">
+  <img src="https://raw.githubusercontent.com/VishalS-HK/ReadMe-svg/a4dd0dca901b70ffed3394da886baad22076a040/svg%20icons/social/linkedin.svg" alt="linkedin badge" style="vertical-align:top margin:6px 4px" target="_blank">
 </a>   
 <a href="https://instagram.com/itz.__.vishal">
   <img src="https://raw.githubusercontent.com/VishalS-HK/ReadMe-svg/a4dd0dca901b70ffed3394da886baad22076a040/svg%20icons/social/instagram.svg" alt="instagram badge" style="vertical-align:top margin:6px 4px">
