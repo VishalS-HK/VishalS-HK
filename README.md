@@ -19,47 +19,47 @@
 
 ---
 # 🌐 Socials:
-<a href="https://linkedin.com/in/vishal-s-b368b3228">
+<a href="https://linkedin.com/in/vishal-s-b368b3228" rel="nofollow">
   <img src="https://raw.githubusercontent.com/VishalS-HK/ReadMe-svg/a4dd0dca901b70ffed3394da886baad22076a040/svg%20icons/social/linkedin.svg" alt="linkedin badge" style="vertical-align:top margin:6px 4px">
 </a>   
-<a href="https://instagram.com/itz.__.vishal">
+<a href="https://instagram.com/itz.__.vishal" rel="nofollow">
   <img src="https://raw.githubusercontent.com/VishalS-HK/ReadMe-svg/a4dd0dca901b70ffed3394da886baad22076a040/svg%20icons/social/instagram.svg" alt="instagram badge" style="vertical-align:top margin:6px 4px">
 </a>
-<a href="https://twitter.com/vishalrsnaidu">
+<a href="https://twitter.com/vishalrsnaidu" rel="nofollow">
   <img src="https://raw.githubusercontent.com/VishalS-HK/ReadMe-svg/a4dd0dca901b70ffed3394da886baad22076a040/svg%20icons/social/twitter.svg" alt="twitter badge" style="vertical-align:top margin:6px 4px">
 </a>
-<a href="https://discord.com/users/796304303064875008">
+<a href="https://discord.com/users/796304303064875008" rel="nofollow">
   <img src="https://raw.githubusercontent.com/VishalS-HK/ReadMe-svg/a4dd0dca901b70ffed3394da886baad22076a040/svg%20icons/streaming/discord.svg" alt="discord badge" style="vertical-align:top margin:6px 4px">
 </a>
-<a href="https://stackoverflow.com/users/19214483/vishal-s">
+<a href="https://stackoverflow.com/users/19214483/vishal-s" rel="nofollow">
   <img src="https://raw.githubusercontent.com/VishalS-HK/ReadMe-svg/a4dd0dca901b70ffed3394da886baad22076a040/svg%20icons/social/stackoverflow.svg" alt="stackoverflow badge" style="vertical-align:top margin:6px 4px">
 </a>
-<a href="https://www.reddit.com/user/SometimesVictor">
+<a href="https://www.reddit.com/user/SometimesVictor" rel="nofollow">
   <img src="https://raw.githubusercontent.com/VishalS-HK/ReadMe-svg/a4dd0dca901b70ffed3394da886baad22076a040/svg%20icons/social/reddit.svg" alt="reddit badge" style="vertical-align:top margin:6px 4px">
 </a>
-<a href="mailto:vishal.rsn21@gmail.com">
+<a href="mailto:vishal.rsn21@gmail.com" rel="nofollow">
   <img src="https://raw.githubusercontent.com/VishalS-HK/ReadMe-svg/a4dd0dca901b70ffed3394da886baad22076a040/svg%20icons/social/gmail.svg" alt="email badge" style="vertical-align:top margin:6px 4px">
 </a>
 <br>
 <br>
-<a href="https://www.leetcode.com/vishal_s_n">
+<a href="https://www.leetcode.com/vishal_s_n" rel="nofollow">
   <img src="https://raw.githubusercontent.com/VishalS-HK/ReadMe-svg/a4dd0dca901b70ffed3394da886baad22076a040/svg%20icons/%20services/%20leetcode.svg" alt="leetcode badge" style="vertical-align:top margin:6px 4px">
 </a>
-<a href="https://www.hackerrank.com/xxvictorxx">
+<a href="https://www.hackerrank.com/xxvictorxx" rel="nofollow">
   <img src="https://raw.githubusercontent.com/VishalS-HK/ReadMe-svg/a4dd0dca901b70ffed3394da886baad22076a040/svg%20icons/%20services/%20hackerrank.svg" alt="hackerrank badge" style="vertical-align:top margin:6px 4px">
 </a>
-<a href="https://www.hackerearth.com/@vishal.rsn21">
+<a href="https://www.hackerearth.com/@vishal.rsn21" rel="nofollow">
   <img src="https://raw.githubusercontent.com/VishalS-HK/ReadMe-svg/cb5a3725fdd0680d9a843dd1cd44797c0596ecb1/svg%20icons/%20services/%20hackerearth.svg" alt="hackerearth badge" style="vertical-align:top margin:6px 4px">
 </a>
-<a href="https://exercism.org">
+<a href="https://exercism.org" rel="nofollow">
   <img src="https://raw.githubusercontent.com/VishalS-HK/ReadMe-svg/a4dd0dca901b70ffed3394da886baad22076a040/svg%20icons/%20services/%20excercism.svg" alt="exercism badge" style="vertical-align:top margin:6px 4px">
 </a>
 <br>
 <br>
-<a href="https://medium.com/@vishal.rsn21">
+<a href="https://medium.com/@vishal.rsn21" rel="nofollow">
   <img src="https://raw.githubusercontent.com/VishalS-HK/ReadMe-svg/ab53307a5cedb854b25e12c9198d612083c96cea/svg%20icons/blogs/medium.svg" alt="medium badge" style="vertical-align:top margin:6px 4px">
 </a>
-<a href="https://sometimesvictor.hashnode.dev">
+<a href="https://sometimesvictor.hashnode.dev" rel="nofollow">
   <img src="https://raw.githubusercontent.com/VishalS-HK/ReadMe-svg/0e48b2cccc68e46442550a072543a6b601f17ca1/svg%20icons/blogs/hashnode.svg" alt="hashnode badge" style="vertical-align:top margin:6px 4px">
 </a>
 
@@ -95,7 +95,7 @@
 </a><br>
 
 ## 👀 OS
-<a href="https://www.apple.com">
+<a href="https://www.apple.com" rel="nofollow">
   <img src="https://raw.githubusercontent.com/VishalS-HK/ReadMe-svg/bfb8aa1395f8cce4b70b9e986b8cf9de49d21fdb/svg%20icons/devices/%20mac.svg" alt="apple badge" style="vertical-align:top margin:6px 4px">
 </a>
 <a href="https://github.com/VishalS-HK">
@@ -106,16 +106,16 @@
 </a><br>
 
 ## 🛠️ Tools
-<a href="https://code.visualstudio.com">
+<a href="https://code.visualstudio.com" rel="nofollow">
   <img src="https://raw.githubusercontent.com/VishalS-HK/ReadMe-svg/2961e7a72f1e5270bcefbbbd31ae56bf0c55d927/svg%20icons/%20tools/%20visualstudio_code.svg" alt="vscode badge" style="vertical-align:top margin:6px 4px">
 </a>
-<a href="https://www.jetbrains.com/idea/">
+<a href="https://www.jetbrains.com/idea/" rel="nofollow">
   <img src="https://raw.githubusercontent.com/VishalS-HK/ReadMe-svg/2961e7a72f1e5270bcefbbbd31ae56bf0c55d927/svg%20icons/%20tools/%20jetbrains_intellij.svg" alt="intellij badge" style="vertical-align:top margin:6px 4px">
 </a>
-<a href="https://www.anaconda.com/products/distribution">
+<a href="https://www.anaconda.com/products/distribution" rel="nofollow">
   <img src="https://raw.githubusercontent.com/VishalS-HK/ReadMe-svg/641a9040a94f78b2deeb27c4bf1b33ddad9f0ae7/svg%20icons/%20tools/%20anaconda.svg" alt="anaconda badge" style="vertical-align:top margin:6px 4px">
 </a>
-<a href="https://developer.android.com/studio?gclid=CjwKCAiA76-dBhByEiwAA0_s9Q9l2FzSRd036ERv67g0jXlW3SS0w5GE1rcXdnUA68pwjxjePY3W-hoC4-sQAvD_BwE&gclsrc=aw.ds">
+<a href="https://developer.android.com/studio?gclid=CjwKCAiA76-dBhByEiwAA0_s9Q9l2FzSRd036ERv67g0jXlW3SS0w5GE1rcXdnUA68pwjxjePY3W-hoC4-sQAvD_BwE&gclsrc=aw.ds" rel="nofollow"> 
   <img src="https://raw.githubusercontent.com/VishalS-HK/ReadMe-svg/641a9040a94f78b2deeb27c4bf1b33ddad9f0ae7/svg%20icons/%20tools/%20android_studio_colour.svg" alt="androidstudio badge" style="vertical-align:top margin:6px 4px">
 </a>
 <a href="https://github.com/VishalS-HK">
