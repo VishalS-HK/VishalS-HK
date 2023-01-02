@@ -9,13 +9,15 @@
 
 ---
 
+- 🧑‍💻I’m currently a CSE Undergrad student at<br> **<a href="https://pes.edu">PES University, Electronic City Campus</a>**
+
+<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif"/>
 
 - 🌱 I’m currently learning **Python, C and Java**
 
 - 📫 How to reach me **vishal.rsn21@gmail.com**
 
 - ⚡ Fun fact **I am a professional Over-thinker😅**
-<!-- <img width="382" alt="Developer Memoji" src="https://user-images.githubusercontent.com/99802796/206902356-ee7abea3-f2eb-4d7c-906e-8aeed45b41b2.png"> -->
 
 ---
 # 🌐 Socials:
