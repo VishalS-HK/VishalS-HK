@@ -92,6 +92,9 @@
 </a>
 <a href="https://github.com/VishalS-HK">
   <img src="https://raw.githubusercontent.com/VishalS-HK/ReadMe-svg/ab53307a5cedb854b25e12c9198d612083c96cea/svg%20icons/%20misc/%20dsa.svg" alt="dsa badge" style="vertical-align:top margin:6px 4px">
+</a>
+<a href="https://github.com/VishalS-HK">
+  <img src="https://raw.githubusercontent.com/VishalS-HK/ReadMe-svg/1cd443d4c3698aa2e8307359896a81dc656f01fc/svg%20icons/%20misc/Open%20soruce.svg" alt="opensource badge" style="vertical-align:top margin:6px 4px">
 </a><br>
 
 ## 👀 OS
