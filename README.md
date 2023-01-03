@@ -160,7 +160,9 @@
 ---
 # 🏆 GitHub Trophies
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishals-hk" alt="vishals-hk" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishals-hk" alt="vishals-hk" /></a> </p> -->
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishals-hk&theme=juicyfresh" alt="vishals-hk" /></a> </p>
 
 ---
 [![@vishal_s's Holopin board](https://holopin.me/vishal_s)](https://holopin.io/@vishal_s)
