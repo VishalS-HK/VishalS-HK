@@ -120,9 +120,9 @@
 <a href="https://www.anaconda.com/products/distribution" rel="nofollow">
   <img src="https://raw.githubusercontent.com/VishalS-HK/ReadMe-svg/641a9040a94f78b2deeb27c4bf1b33ddad9f0ae7/svg%20icons/%20tools/%20anaconda.svg" alt="anaconda badge" style="vertical-align:top margin:6px 4px">
 </a>
-<a href="https://developer.android.com/studio?gclid=CjwKCAiA76-dBhByEiwAA0_s9Q9l2FzSRd036ERv67g0jXlW3SS0w5GE1rcXdnUA68pwjxjePY3W-hoC4-sQAvD_BwE&gclsrc=aw.ds" rel="nofollow"> 
+<!-- <a href="https://developer.android.com/studio?gclid=CjwKCAiA76-dBhByEiwAA0_s9Q9l2FzSRd036ERv67g0jXlW3SS0w5GE1rcXdnUA68pwjxjePY3W-hoC4-sQAvD_BwE&gclsrc=aw.ds" rel="nofollow"> 
   <img src="https://raw.githubusercontent.com/VishalS-HK/ReadMe-svg/641a9040a94f78b2deeb27c4bf1b33ddad9f0ae7/svg%20icons/%20tools/%20android_studio_colour.svg" alt="androidstudio badge" style="vertical-align:top margin:6px 4px">
-</a>
+</a> -->
 <a href="https://github.com/VishalS-HK">
   <img src="https://raw.githubusercontent.com/VishalS-HK/ReadMe-svg/ffe85c891c9c1793a47ec5d25a1cd024859c5c21/svg%20icons/%20tools/%20matlab.svg" alt="matlab badge" style="vertical-align:top margin:6px 4px">
 </a>
