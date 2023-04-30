@@ -1,10 +1,9 @@
-
 </div>
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>
 
-<h1 align="center">Hi 👋, I'm Vishal S</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm Vishal S</h1>
 <h3 align="center">A budding developer 👨‍💻 from India 🇮🇳</h3>
 
 ---
