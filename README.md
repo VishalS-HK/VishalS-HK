@@ -12,7 +12,7 @@
 
 <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif"/>
 
-- 🌱 I’m currently learning **Java and Web Development**
+- 🌱 I’m currently learning **Java and Machine Learning**
 
 - 📫 How to reach me **vishal.rsn21@gmail.com**
 
@@ -152,6 +152,23 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishals-hk&show_icons=true&locale=en" alt="vishals-hk" /></p> -->
 # 📊 GitHub Stats:
+
+<div align="center">
+  <a href="https://quine.sh">
+    <img src="https://stats.quine.sh/VishalS/github?theme=dark" alt="VishalS's GitHub Stats">
+  </a>
+</div>
+
+<div style="display: flex; justify-content: space-between;">
+  <a href="https://quine.sh" style="text-decoration: none;">
+    <img src="https://stats.quine.sh/VishalS/languages-over-time?theme=dark" alt="VishalS's GitHub | Languages Over Time" style="width: 47%;">
+  </a>
+  <a href="https://quine.sh" style="text-decoration: none;">
+    <img src="https://stats.quine.sh/VishalS/topics-over-time?theme=dark" alt="VishalS's GitHub | Topics Over Time" style="width: 47%;">
+  </a>
+</div>
+
+
 ![](https://github-readme-stats.vercel.app/api?username=VishalS-HK&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=VishalS-HK&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=VishalS-HK&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
@@ -167,6 +184,7 @@
 [![@vishal_s's Holopin board](https://holopin.me/vishal_s)](https://holopin.io/@vishal_s)
 
 ---
+
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=uqpmroy3rsdzhulc3cs3vq2pm&cover_image=true&theme=default&show_offline=false&background_color=121212)](https://github.com/kittinan/spotify-github-profile) 
 
 ---
