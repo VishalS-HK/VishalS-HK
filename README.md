@@ -181,7 +181,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishals-hk&theme=juicyfresh" alt="vishals-hk" /></a> </p>
 
 ---
-[![@vishal_s's Holopin board](https://holopin.me/vishal_s)](https://holopin.io/@vishal_s)
+[![An image of @vishal_s's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vishal_s)](https://holopin.io/@vishal_s)
 
 ---
 
